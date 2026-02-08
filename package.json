@@ -22,8 +22,11 @@
     "@types/html-to-text": "^9.0.4",
     "@types/morgan": "^1.9.10",
     "@types/nodemailer": "^7.0.9",
+    "@typescript-eslint/eslint-plugin": "^8.54.0",
+    "@typescript-eslint/parser": "^8.54.0",
     "cpy-cli": "^7.0.0",
     "eslint": "^10.0.0",
+    "eslint-plugin-no-commented-code": "^1.0.10",
     "nodemon": "^3.1.11"
   },
   "peerDependencies": {
